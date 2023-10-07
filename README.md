@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Mitchell. I am a Data & Privacy Engineer based in Sydney, Australia 🇦🇺
+- 🔭 I’m a big fan of anything in the data privacy & security space including anonymisation, technical data governance & cryptography.
+- 🌱 I **very occasionaly** post articles [here](https://mitchelllisle.github.io/)
+- 💭 I primary work in Python, Go & Scala
+
 <!--
 **mitchelllisle/mitchelllisle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
